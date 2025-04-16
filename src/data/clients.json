@@ -1,0 +1,8 @@
+[
+    { "id": "acme", "name": "AcmeRx", "region": "West" },
+    { "id": "wellspring", "name": "WellSpring", "region": "East" },
+    { "id": "zenith", "name": "Zenith Health", "region": "Midwest" },
+    { "id": "omnimed", "name": "OmniMed", "region": "South" },
+    { "id": "nova", "name": "NovaScripts", "region": "Northeast" }
+  ]
+  
